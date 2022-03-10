@@ -2,4 +2,4 @@
 
 Esses são os arquivos que usei no vídeo sobre dark mode.
 
-Você pode ver o vídeo no [Meu canal](https://youtube.com/programadorreal)
+Você pode ver o vídeo no [Meu canal](https://youtu.be/gXMSSID5qKI)
